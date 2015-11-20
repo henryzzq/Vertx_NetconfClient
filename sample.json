@@ -1,0 +1,11 @@
+{
+"remoteuser":"admin",
+"password":"admin",
+"sc_handler":"com.cisco.jnc.JNCGraphHandler",
+"port":"830",
+"name":"10.124.21.187",
+"host":"10.124.21.187",
+"id":"10.124.21.187",
+"sc_interval":"60000",
+"localuser":"admin"
+}
